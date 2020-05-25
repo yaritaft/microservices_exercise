@@ -1,0 +1,10 @@
+/venv**
+/venv/
+venv/
+.env
+**.env**
+__pycache__/
+**__pychache__/
+.vscode
+local_test_data/
+
