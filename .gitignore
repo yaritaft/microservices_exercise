@@ -7,4 +7,4 @@ __pycache__/
 **__pychache__/
 .vscode
 local_test_data/
-
+*.pyc
